@@ -8,7 +8,7 @@
         "save"
       ]
     },
-    "@vue/cli-plugin-unit-mocha": {},
+    "@vue/cli-plugin-unit-mocha": {}
   },
   "router": true,
   "routerHistoryMode": false,
