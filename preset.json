@@ -9,7 +9,6 @@
       ]
     },
     "@vue/cli-plugin-unit-mocha": {},
-    "@ele/fin-utils": {}
   },
   "router": true,
   "routerHistoryMode": false,

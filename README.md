@@ -11,7 +11,7 @@
 ### 使用方法
 
 #### 拉取远程 preset
-> vue create --preset direct:git@github.com:amie0119/fin-js-preset.git --clone [project-name] --registry=http://r.tools.elenet.me
+> vue create --preset amie0119/fin-js-preset [project-name] --registry=http://r.tools.elenet.me
 
 #### 编辑器设置
 如果使用的是 vscode，安装 prettier 和 ESLint 插件，并在首选项 > 设置里 进行配置
